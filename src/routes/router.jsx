@@ -7,6 +7,8 @@ import MetodologiasAgiles from "../layouts/pages/primer-nivel/MetodologiasAgiles
 import BasesDatos from "../layouts/pages/segundo-nivel/BasesDatos";
 import MovilesUno from "../layouts/pages/segundo-nivel/MovilesUno";
 import WebUno from "../layouts/pages/segundo-nivel/WebUno";
+import MovilesDos from "../layouts/pages/tercer-nivel/MovilesDos";
+import WebDos from "../layouts/pages/tercer-nivel/WebDos";
 
 export let routes = [
     {
@@ -44,5 +46,17 @@ export let routes = [
     {
         path: '/moviles-uno',
         element: <MovilesUno />
+    },
+    {
+        path: '/moviles-dos',
+        element: <MovilesDos />
+    },
+    {
+        path: '/web-dos',
+        element: <WebDos />
+    },
+    {
+        path: '/nuevas-tecnologias',
+        element: <WebDos />
     },
 ]

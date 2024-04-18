@@ -50,22 +50,22 @@ const PlanEstudio = () => {
         <Link>Cátedra ser emprendedor</Link>
       </div>
       <div className="div16">
-        <Link>Programación de aplicaciones moviles 1</Link>
+        <Link to={'/moviles-uno'}>Programación de aplicaciones moviles 1</Link>
       </div>
       <div className="div17">
-        <Link>Programación para la Web 1</Link>
+        <Link to={'/web-uno'}>Programación para la Web 1</Link>
       </div>
       <div className="div18">
-        <Link>Gestión de bases de datos</Link>
+        <Link to={'/bases-datos'}>Gestión de bases de datos</Link>
       </div>
       <div className="div19">
-        <Link>Nuevas tecnologías de la programación</Link>
+        <Link to={'/nuevas-tecnologias'}>Nuevas tecnologías de la programación</Link>
       </div>
       <div className="div20">
-        <Link>Programación de aplicaciones moviles 2</Link>
+        <Link to={'/moviles-dos'}>Programación de aplicaciones moviles 2</Link>
       </div>
       <div className="div21">
-        <Link>Programación para la Web 2</Link>
+        <Link to={'/web-dos'}>Programación para la Web 2</Link>
       </div>
       <Link to='/' className='btn-continuar'>Home</Link>
     </div>

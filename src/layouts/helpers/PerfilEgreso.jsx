@@ -13,7 +13,7 @@ const PerfilEgreso = () => {
             <section className='perfil-img'>
                 <img src={perfil} alt="" />
             </section>
-            <Link to='/plan' className='btn-continuar'>Continuar</Link>
+            <Link to='/plan' className='btn-continuar'>Plan Estudio</Link>
         </div>
     )
 }

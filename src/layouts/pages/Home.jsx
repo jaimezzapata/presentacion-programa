@@ -8,7 +8,7 @@ const Home = () => {
             <h1>Escuela de nuevas tecnologias</h1>
             <div className='home-glass'>
             </div>
-            <Link className='medellin' to='/perfil'>TÉCNICO LABORAL COMO ASISTENTE EN DESARROLLO DE SOFTWARE - MEDELLIN</Link>
+            <Link className='medellin' to='/plan'>TÉCNICO LABORAL COMO ASISTENTE EN DESARROLLO DE SOFTWARE - MEDELLIN</Link>
             {/* <div className='home-glass'>
             </div>
             <Link className='suroeste' to='/perfil'>TÉCNICO LABORAL COMO ASISTENTE EN DESARROLLO DE SOFTWARE - SUROESTE</Link> */}
