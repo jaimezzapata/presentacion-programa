@@ -9,7 +9,7 @@
 }
 
 ul{
-    list-style-image: url('public/list.png');
+    list-style-image: url('./assets/list.png');
     display: flex;
     justify-content: center;
     align-items: flex-start;

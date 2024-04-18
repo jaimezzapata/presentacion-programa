@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import logo from '../../assets/logo.png'
 
 const Home = () => {
     return (
@@ -7,10 +8,13 @@ const Home = () => {
             <h1>Escuela de nuevas tecnologias</h1>
             <div className='home-glass'>
             </div>
-            <Link to='/perfil'>PLAN DE ESTUDIO TÉCNICO LABORAL COMO ASISTENTE EN DESARROLLO DE SOFTWARE</Link>
-            <img src="public/logo.png" alt="Logo" />
+            <Link className='medellin' to='/perfil'>TÉCNICO LABORAL COMO ASISTENTE EN DESARROLLO DE SOFTWARE - MEDELLIN</Link>
+            <div className='home-glass'>
+            </div>
+            <Link className='suroeste' to='/perfil'>TÉCNICO LABORAL COMO ASISTENTE EN DESARROLLO DE SOFTWARE - SUROESTE</Link>
+            <img src={logo} alt="Logo" />
         </section>
     )
 }
 
-export default Home
+export default Home 

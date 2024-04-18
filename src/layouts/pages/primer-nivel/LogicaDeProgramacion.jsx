@@ -10,7 +10,7 @@ const LogicaDeProgramacion = () => {
                     <p><strong>Objetivo:</strong><small>Desarrollar competencias asociadas a la solución de problemas a través de la programación de computadores</small></p>
                 </section>
                 <section>
-                    <p>Este submódulo busca desde la aplicación de un lenguaje de programación (Java) el entedimiento de los conceptos básicos de lógica y del lenguaje como tal. Cabe aclarar que dentro de este módulo se enseña directamente desde la parte opertavia y practica ante diferentes situaciones que se pueden presentar. Los estudiantes no trabajan en la resolución de problemas desde una planeacion estructurada</p>
+                    <p>Este submódulo busca desde la aplicación de un lenguaje de programación (Java) el entedimiento de los conceptos básicos de lógica y del lenguaje como tal. Cabe aclarar que dentro de este módulo se enseña directamente desde la parte operativa y práctica ante diferentes situaciones que se pueden presentar. Los estudiantes no trabajan en la resolución de problemas desde una planeacion estructurada</p>
                 </section>
             </div>
             <div className="submodulo-div2">

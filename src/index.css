@@ -36,16 +36,25 @@ body {
   justify-content: center;
   align-items: center;
   opacity: 0.2;
-  position: absolute;
-  z-index: 0;
+  /* position: absolute;
+  z-index: 0; */
 }
 
-.home a {
+.home .medellin {
   position: absolute;
   z-index: 1;
   color: white;
   text-decoration: none;
   transition: ease-in-out all 0.3s;
+  top: 57%
+}
+.home .suroeste {
+  position: absolute;
+  z-index: 1;
+  color: white;
+  text-decoration: none;
+  transition: ease-in-out all 0.3s;
+  top: 34%
 }
 
 .home a:hover {
@@ -122,7 +131,7 @@ body {
   border: solid 1px black;
 }
 
-.parent div a{
+.parent div a {
   text-decoration: none;
   color: black;
 }
@@ -142,7 +151,8 @@ body {
   text-transform: uppercase;
 }
 
-.div16, .div20{
+.div16,
+.div20 {
   text-align: center;
 }
 
@@ -228,4 +238,22 @@ body {
 
 .div21 {
   grid-area: 5 / 5 / 6 / 6;
+}
+
+
+@media (max-width: 500px) {
+  body {
+    font-size: 8px;
+  }
+
+  img {
+    width: 200px;
+  }
+
+  .btn-continuar {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+  }
 }

@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import perfil from '../../assets/perfil-egreso.jpg'
 const PerfilEgreso = () => {
     return (
         <div className='perfil'>
@@ -10,7 +11,7 @@ const PerfilEgreso = () => {
                 </p>
             </section>
             <section className='perfil-img'>
-                <img src="public/perfil-egreso.jpg" alt="" />
+                <img src={perfil} alt="" />
             </section>
             <Link to='/plan' className='btn-continuar'>Continuar</Link>
         </div>
