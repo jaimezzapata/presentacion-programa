@@ -1,7 +1,7 @@
 import React from 'react'
 import '../../../submodulos.css'
 import { Link } from 'react-router-dom'
-const BasesDatos = () => {
+const MovilesUno = () => {
     return (
         <div className="submodulo-parent">
             <div className="submodulo-div1"> </div>
@@ -16,4 +16,4 @@ const BasesDatos = () => {
     )
 }
 
-export default BasesDatos
+export default MovilesUno

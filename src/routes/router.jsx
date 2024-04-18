@@ -4,6 +4,9 @@ import Home from "../layouts/pages/Home";
 import IntroduccionProgramacion from "../layouts/pages/primer-nivel/IntroduccioProgramacion";
 import LogicaDeProgramacion from "../layouts/pages/primer-nivel/LogicaDeProgramacion";
 import MetodologiasAgiles from "../layouts/pages/primer-nivel/MetodologiasAgiles";
+import BasesDatos from "../layouts/pages/segundo-nivel/BasesDatos";
+import MovilesUno from "../layouts/pages/segundo-nivel/MovilesUno";
+import WebUno from "../layouts/pages/segundo-nivel/WebUno";
 
 export let routes = [
     {
@@ -29,5 +32,17 @@ export let routes = [
     {
         path: '/introduccion-programacion',
         element: <IntroduccionProgramacion />
+    },
+    {
+        path: '/bases-datos',
+        element: <BasesDatos />
+    },
+    {
+        path: '/web-uno',
+        element: <WebUno />
+    },
+    {
+        path: '/moviles-uno',
+        element: <MovilesUno />
     },
 ]
