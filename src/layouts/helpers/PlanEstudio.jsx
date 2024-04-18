@@ -42,6 +42,7 @@ const PlanEstudio = () => {
       </div>
       <div className="div13">
         <Link to={'/metodologias-agiles'}>Metodologías Ágiles</Link>
+        <small><strong>220501131</strong></small>
       </div>
       <div className="div14">
         <Link to={'/introduccion-programacion'}>Introducción a la programación</Link>

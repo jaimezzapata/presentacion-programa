@@ -14,10 +14,20 @@ ul{
     justify-content: center;
     align-items: flex-start;
     flex-direction: column;
+    width: 90%;
+    padding: 10%;
 }
 
 ul li{
     margin-top: 3%;
+    width: 100%;
+    background-color: #c40658;
+    color: white;
+    /* display: flex; */
+    align-content: center;
+    padding: 2%;
+    height: 45px;
+    border-radius: 10px;
 }
 
 .submodulo-div1 {

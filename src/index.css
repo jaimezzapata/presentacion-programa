@@ -136,6 +136,10 @@ body {
   color: white;
 }
 
+.div13{
+  flex-direction: column;
+}
+
 .div1,
 .div2,
 .div3,
