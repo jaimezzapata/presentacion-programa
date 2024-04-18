@@ -38,13 +38,13 @@ const PlanEstudio = () => {
         <p>Obligatorias Intitucionales</p>
       </div>
       <div className="div12">
-        <Link>Lógica de programación</Link>
+        <Link to={'/logica-de-programacion'}>Lógica de programación</Link>
       </div>
       <div className="div13">
-        <Link>Metodologías Ágiles</Link>
+        <Link to={'/metodologias-agiles'}>Metodologías Ágiles</Link>
       </div>
       <div className="div14">
-        <Link>Introducción a la programación</Link>
+        <Link to={'/introduccion-programacion'}>Introducción a la programación</Link>
       </div>
       <div className="div15">
         <Link>Cátedra ser emprendedor</Link>
@@ -69,7 +69,7 @@ const PlanEstudio = () => {
       </div>
       <Link to='/' className='btn-continuar'>Home</Link>
     </div>
-    
+
   )
 }
 
