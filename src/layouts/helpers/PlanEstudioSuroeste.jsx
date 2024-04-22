@@ -42,9 +42,6 @@ const PlanEstudioSuroeste = () => {
       </div>
       <div className="div13">
         <Link to={"/bases-datos"}>Gestión de bases de datos</Link>
-        <small>
-          <strong>220501131</strong>
-        </small>
       </div>
       <div className="div14">
         <Link to={"/introduccion-programacion"}>
@@ -62,6 +59,9 @@ const PlanEstudioSuroeste = () => {
       </div>
       <div className="div18">
         <Link to={"/analisis-diseño"}>Análisis y diseño de aplicaciones</Link>
+        <small>
+          <strong>Norma competencia</strong>
+        </small>
       </div>
       <div className="div19">
         <Link to={"/nuevas-tecnologias"}>

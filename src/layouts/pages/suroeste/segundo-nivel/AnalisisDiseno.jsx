@@ -6,7 +6,7 @@ const AnalisisDiseno = () => {
     <div className="submodulo-parent">
       <div className="submodulo-div1">
         <section>
-          <h1>Metodologías agiles</h1>
+          <h1>Análisis y diseño de aplicaciones</h1>
           <small>
             Norma de competencia: 220501131 Levantar requisitos de la solución
             de software de acuerdo con métodos y estándares técnicos{" "}
