@@ -54,7 +54,7 @@ const IntroduccionProgramacion = () => {
                     <li>Bootstrap</li>
                 </ul>
             </div>
-            <Link to='/plan' className='btn-continuar'>Plan estudio</Link>
+            <Link to='/plan-suroeste' className='btn-continuar'>Plan estudio</Link>
         </div>
     )
 }

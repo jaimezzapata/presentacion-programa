@@ -69,7 +69,7 @@ const AnalisisDiseno = () => {
           <li>Metricas</li>
         </ul>
       </div>
-      <Link to="/plan" className="btn-continuar">
+      <Link to="/plan-suroeste" className="btn-continuar">
         Plan estudio
       </Link>
     </div>

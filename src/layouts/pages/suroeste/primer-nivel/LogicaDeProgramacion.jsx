@@ -57,7 +57,7 @@ const LogicaDeProgramacion = () => {
                     <li>Arreglos Unidimensionales</li>
                 </ul>
             </div>
-            <Link to='/plan' className='btn-continuar'>Plan estudio</Link>
+            <Link to='/plan-suroeste' className='btn-continuar'>Plan estudio</Link>
         </div>
     )
 }

@@ -11,7 +11,7 @@ const NuevasTecnologias = () => {
             <div className="submodulo-div5"> </div>
             <div className="submodulo-div6"> </div>
             <div className="submodulo-div7"> </div>
-            <Link to='/plan' className='btn-continuar'>Plan estudio</Link>
+            <Link to='/plan-suroeste' className='btn-continuar'>Plan estudio</Link>
         </div>
     )
 }
