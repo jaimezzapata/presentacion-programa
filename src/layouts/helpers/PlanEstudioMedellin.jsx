@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const PlanEstudio = () => {
+const PlanEstudioMedellin = () => {
   return (
     <div className="parent">
       <div className="div1">
@@ -81,4 +81,4 @@ const PlanEstudio = () => {
   );
 };
 
-export default PlanEstudio;
+export default PlanEstudioMedellin;

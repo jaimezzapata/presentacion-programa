@@ -9,14 +9,14 @@ const Home = () => {
       <section className="planes-home">
         <section className="home-medellin">
           <div className="medellin-glass"></div>
-          <Link className="medellin" to="/plan">
+          <Link className="medellin" to="/plan-medellin">
             TÉCNICO LABORAL COMO ASISTENTE EN DESARROLLO DE SOFTWARE - MEDELLIN
           </Link>
         </section>
         <section className="home-suroeste">
           <div className="suroeste-glass"></div>
-          <Link className="suroeste" to="/plan">
-            TÉCNICO LABORAL COMO ASISTENTE EN DESARROLLO DE SOFTWARE - SUROESTE
+          <Link className="suroeste" to="/plan-suroeste">
+            TÉCNICO LABORAL COMO ASISTENTE EN DESARROLLO DE APLICACIONES INFORMÁTICAS - SUROESTE
           </Link>
         </section>
       </section>
