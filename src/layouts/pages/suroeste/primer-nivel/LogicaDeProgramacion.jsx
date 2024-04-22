@@ -1,5 +1,5 @@
 import React from 'react'
-import '../../../submodulos.css'
+import '../../../../submodulos.css'
 import { Link } from 'react-router-dom'
 const LogicaDeProgramacion = () => {
     return (
