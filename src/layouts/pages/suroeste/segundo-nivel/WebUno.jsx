@@ -40,7 +40,7 @@ const WebUno = () => {
                     <li>Arreglos</li>
                     <li>Objetos</li>
                     <li>DOM</li>
-                    <li>Traversin</li>
+                    <li>Traversing</li>
                     <li>Manejo de Git</li>
                 </ul>
             </div>
