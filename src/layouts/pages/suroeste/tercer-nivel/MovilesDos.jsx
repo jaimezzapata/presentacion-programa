@@ -10,15 +10,22 @@ const MovilesDos = () => {
           <p>
             <strong>Objetivo:</strong>
             <small>
-              Desarrollar competencias para codificar bajo el modelo
-              Programación Orientada a Objetos-POO
+              Desarrollar competencias para codificar bajo el paradigma de
+              programación Orientado a Objetos (POO) implementando un framework de desarrollo
             </small>
           </p>
         </section>
         <section>
           <p>
             El presente submódulo aborda las bases de la programación orientada
-            a Objetos enfocado en el uso de Java como lenguaje de programación
+            a Objetos enfocado en el uso de Java como lenguaje de programación y
+            aplicado al Framework SpringBoot, donde se aprenderá a construir
+            servicios web
+          </p>
+          <p>
+            El submódulo por requerimientos de seretaría de educacion tiene el
+            nombre de "moviles 2" ya que hace parte del plan de estudio que se
+            oferta a grupos regulares
           </p>
         </section>
       </div>

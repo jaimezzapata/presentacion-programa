@@ -22,7 +22,7 @@ const MovilesUno = () => {
           </p>
           <br />
           <p>
-            El submódulo por requerimientos de seretaría de eduación tiene el
+            El submódulo por requerimientos de seretaría de educacion tiene el
             nombre de "moviles 1" ya que hace parte del plan de estudio que se
             oferta a grupos regulares
           </p>
