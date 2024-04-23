@@ -42,9 +42,6 @@ const PlanEstudioMedellin = () => {
       </div>
       <div className="div13">
         <Link to={"/bases-datos"}>Gestión de bases de datos</Link>
-        <small>
-          <strong>220501131</strong>
-        </small>
       </div>
       <div className="div14">
         <Link to={"/introduccion-programacion"}>
@@ -55,13 +52,16 @@ const PlanEstudioMedellin = () => {
         <Link>Cátedra ser emprendedor</Link>
       </div>
       <div className="div16">
-        <Link to={"/moviles-uno"}>Programación de aplicaciones moviles 1</Link>
+        <Link to={"/moviles-uno"}>BackEnd 1 (Lenguaje)</Link>
       </div>
       <div className="div17">
-        <Link to={"/web-uno"}>Programación para la Web 1</Link>
+        <Link to={"/web-uno"}>FronEnd 1 (Lenguaje)</Link>
       </div>
       <div className="div18">
-        <Link to={"/analisis-diseño"}>Análisis y diseño de aplicaciones</Link>
+        <Link to={"/analisis-diseño"}>Metodologías Ágiles</Link>
+        <small>
+          <strong>220501131</strong>
+        </small>
       </div>
       <div className="div19">
         <Link to={"/nuevas-tecnologias"}>
@@ -69,10 +69,13 @@ const PlanEstudioMedellin = () => {
         </Link>
       </div>
       <div className="div20">
-        <Link to={"/moviles-dos"}>Programación de aplicaciones moviles 2</Link>
+        <Link to={"/moviles-dos"}>BackEnd 2 (Framework)</Link>
       </div>
       <div className="div21">
-        <Link to={"/web-dos"}>Programación para la Web 2</Link>
+        <Link to={"/web-dos"}>FrontEnd 2 (Framework)</Link>
+        <small>
+          <strong>220501123</strong>
+        </small>
       </div>
       <Link to="/" className="btn-continuar">
         Home

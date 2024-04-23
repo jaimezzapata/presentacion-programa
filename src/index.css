@@ -147,7 +147,7 @@ body {
   color: white;
 }
 
-.div18 {
+.div18, .div21 {
   flex-direction: column;
 }
 
