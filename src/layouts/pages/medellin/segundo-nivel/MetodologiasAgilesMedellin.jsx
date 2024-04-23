@@ -1,7 +1,7 @@
 import React from "react";
 // import '../../../../submodulos.css'
 import { Link } from "react-router-dom";
-const MetodologiasAgiles = () => {
+const MetodologiasAgilesMedellin = () => {
   return (
     <div className="submodulo-parent">
       <div className="submodulo-div1">
@@ -69,11 +69,11 @@ const MetodologiasAgiles = () => {
           <li>Metricas</li>
         </ul>
       </div>
-      <Link to="/plan" className="btn-continuar">
+      <Link to="/plan-medellin" className="btn-continuar">
         Plan estudio
       </Link>
     </div>
   );
 };
 
-export default MetodologiasAgiles;
+export default MetodologiasAgilesMedellin;

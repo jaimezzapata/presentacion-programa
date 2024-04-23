@@ -1,12 +1,12 @@
 import React from "react";
 import "../../../../submodulos.css";
 import { Link } from "react-router-dom";
-const WebDos = () => {
+const FrontEndDos = () => {
   return (
     <div className="submodulo-parent">
       <div className="submodulo-div1">
         <section>
-          <h1>Programación para la web 2</h1>
+          <h1>FrontEnd 2 (Framework) </h1>
           <p>
             <strong>Objetivo:</strong>
             <small>
@@ -68,11 +68,11 @@ const WebDos = () => {
           <li>Manejo de Git</li>
         </ul>
       </div>
-      <Link to="/plan-suroeste" className="btn-continuar">
+      <Link to="/plan-medellin" className="btn-continuar">
         Plan estudio
       </Link>
     </div>
   );
 };
 
-export default WebDos;
+export default FrontEndDos;

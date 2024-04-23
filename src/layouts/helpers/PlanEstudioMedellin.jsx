@@ -38,13 +38,13 @@ const PlanEstudioMedellin = () => {
         <p>Obligatorias Intitucionales</p>
       </div>
       <div className="div12">
-        <Link to={"/logica-de-programacion"}>Lógica de programación</Link>
+        <Link to={"/logica-de-programacion-medellin"}>Lógica de programación</Link>
       </div>
       <div className="div13">
-        <Link to={"/bases-datos"}>Gestión de bases de datos</Link>
+        <Link to={"/bases-datos-medellin"}>Gestión de bases de datos</Link>
       </div>
       <div className="div14">
-        <Link to={"/introduccion-programacion"}>
+        <Link to={"/introduccion-programacion-medellin"}>
           Introducción a la programación
         </Link>
       </div>
@@ -52,27 +52,27 @@ const PlanEstudioMedellin = () => {
         <Link>Cátedra ser emprendedor</Link>
       </div>
       <div className="div16">
-        <Link to={"/moviles-uno"}>BackEnd 1 (Lenguaje)</Link>
+        <Link to={"/back-uno"}>BackEnd 1 (Lenguaje)</Link>
       </div>
       <div className="div17">
-        <Link to={"/web-uno"}>FronEnd 1 (Lenguaje)</Link>
+        <Link to={"/front-uno"}>FronEnd 1 (Lenguaje)</Link>
       </div>
       <div className="div18">
-        <Link to={"/analisis-diseño"}>Metodologías Ágiles</Link>
+        <Link to={"/metodologias-agiles"}>Metodologías Ágiles</Link>
         <small>
           <strong>220501131</strong>
         </small>
       </div>
       <div className="div19">
-        <Link to={"/nuevas-tecnologias"}>
+        <Link to={"/nuevas-tecnologias-medellin"}>
           Nuevas tecnologías de la programación
         </Link>
       </div>
       <div className="div20">
-        <Link to={"/moviles-dos"}>BackEnd 2 (Framework)</Link>
+        <Link to={"/back-dos"}>BackEnd 2 (Framework)</Link>
       </div>
       <div className="div21">
-        <Link to={"/web-dos"}>FrontEnd 2 (Framework)</Link>
+        <Link to={"/front-dos"}>FrontEnd 2 (Framework)</Link>
         <small>
           <strong>220501123</strong>
         </small>
